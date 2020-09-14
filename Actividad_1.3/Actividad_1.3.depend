@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600050524 source:c:\users\iiial\onedrive\desktop\deskopt\tec\semestre 3\algoritmos\actividad_1.3\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<vector>
+
